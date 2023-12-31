@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASP.T_MVC_CORE")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eea579f6a4952ac31cf3fcca8f4d30872ce8884e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASP.T_MVC_CORE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASP.T_MVC_CORE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

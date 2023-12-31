@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h0BFxSCdLOwZksbpgLmYIF/tPdPTqOrk+kZh0QylPNU7+bbtNVip8v77rZf4iDRnCQqQRdFCNu1gpi9DAFvvkw==",
+  "dgSpecHash": "BHY+EG0iLMQRH/vrstGsH6dJNIvdwkVDUqX0OfgMb1lQztz0IobItj4QkhCCu8vFWbjdvG5ZwQqAmt7vuY4q3w==",
   "success": true,
-  "projectFilePath": "D:\\c# cơ bản\\ASP.T_MVC_CORE\\ASP.T_MVC_CORE\\ASP.T_MVC_CORE.csproj",
+  "projectFilePath": "D:\\ASP.NET_MVC_CORE-main\\ASP.NET_MVC_CORE\\ASP.T_MVC_CORE\\ASP.T_MVC_CORE.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

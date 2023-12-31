@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c# cơ bản\\ASP.T_MVC_CORE\\ASP.T_MVC_CORE\\ASP.T_MVC_CORE.csproj": {}
+    "D:\\ASP.NET_MVC_CORE-main\\ASP.NET_MVC_CORE\\ASP.T_MVC_CORE\\ASP.T_MVC_CORE.csproj": {}
   },
   "projects": {
-    "D:\\c# cơ bản\\ASP.T_MVC_CORE\\ASP.T_MVC_CORE\\ASP.T_MVC_CORE.csproj": {
+    "D:\\ASP.NET_MVC_CORE-main\\ASP.NET_MVC_CORE\\ASP.T_MVC_CORE\\ASP.T_MVC_CORE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c# cơ bản\\ASP.T_MVC_CORE\\ASP.T_MVC_CORE\\ASP.T_MVC_CORE.csproj",
+        "projectUniqueName": "D:\\ASP.NET_MVC_CORE-main\\ASP.NET_MVC_CORE\\ASP.T_MVC_CORE\\ASP.T_MVC_CORE.csproj",
         "projectName": "ASP.T_MVC_CORE",
-        "projectPath": "D:\\c# cơ bản\\ASP.T_MVC_CORE\\ASP.T_MVC_CORE\\ASP.T_MVC_CORE.csproj",
+        "projectPath": "D:\\ASP.NET_MVC_CORE-main\\ASP.NET_MVC_CORE\\ASP.T_MVC_CORE\\ASP.T_MVC_CORE.csproj",
         "packagesPath": "C:\\Users\\Nam Trung\\.nuget\\packages\\",
-        "outputPath": "D:\\c# cơ bản\\ASP.T_MVC_CORE\\ASP.T_MVC_CORE\\obj\\",
+        "outputPath": "D:\\ASP.NET_MVC_CORE-main\\ASP.NET_MVC_CORE\\ASP.T_MVC_CORE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

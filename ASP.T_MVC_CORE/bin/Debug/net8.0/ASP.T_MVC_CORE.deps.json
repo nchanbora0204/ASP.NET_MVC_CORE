@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ASP.T_MVC_CORE/1.0.0": {
+        "runtime": {
+          "ASP.T_MVC_CORE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ASP.T_MVC_CORE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
